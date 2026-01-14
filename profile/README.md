@@ -1,4 +1,4 @@
-# MAMA: Breast Cancer Challenges 🌸
+# MAMA Challenge for Breast Cancer 🌸
 
 Welcome to the MAMA Challenges! We are dedicated to advancing breast cancer research through open-source code, high-quality datasets, and reproducible AI benchmarks. 🚀
 
