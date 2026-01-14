@@ -16,3 +16,24 @@ We are proud to showcase the MAMA-MIA Challenge, originally featured at MICCAI 2
 
 👉 Explore the repository here: [LidiaGarrucho/MAMA-MIA](https://github.com/LidiaGarrucho/MAMA-MIA)
 
+
+## 🆕 Upcoming Challenge: MAMA-SYNTH 🧪
+Virtual Contrast-Enhanced Breast MRI Synthesis
+
+We are thrilled to announce MAMA-SYNTH, a challenge dedicated to the future of contrast-free breast imaging.
+
+###🌟 Why MAMA-SYNTH?
+🚫 Safer Imaging: Reducing reliance on gadolinium-based agents to eliminate safety concerns and contraindications.
+
+📉 Streamlined Workflow: Lowering clinical costs and patient burden through virtual enhancement.
+
+🤖 Generative Excellence: Utilizing SOTA deep generative modeling to synthesize post-contrast images from pre-contrast acquisitions.
+
+### 🎯 Challenge Focus:
+🖼️ Image Fidelity: Can synthetic images match the quality of real DCE-MRI?
+
+🔍 Lesion Realism: Ensuring clinically accurate representation of tumors without real contrast.
+
+🏥 Downstream Utility: Validating synthetic data for actual clinical decision-making and treatment monitoring.
+
+🚀 Status: Coming Soon! Stay tuned to this organization for the official dataset release and submission guidelines.
