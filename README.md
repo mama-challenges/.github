@@ -36,4 +36,4 @@ We are thrilled to announce MAMA-SYNTH, a challenge dedicated to the future of c
 
 -  Downstream Utility: Validating synthetic data for actual clinical decision-making and treatment monitoring.
 
-###🚀 Status: Coming Soon! Stay tuned to this organization for the official dataset release and submission guidelines.
+### Status: Coming Soon! 🚀  Stay tuned to this organization challenge timeline and submission guidelines!
