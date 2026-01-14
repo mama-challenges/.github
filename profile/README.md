@@ -18,6 +18,10 @@ We are proud to showcase the MAMA-MIA Challenge, originally featured at MICCAI 2
 
 -  Submit your algorithms to our running long-term benchmark for comparison: [Codabench](https://www.codabench.org/competitions/7425/)
 
+<p align="left">
+  <img src="miccai2025-logo.png" alt="bcn-aim" width="100"/>
+  <img src="Deep-Breath-logo.png" alt="ub" width="100"/>
+</p>
 
 ## 🤖 Upcoming Challenge: MAMA-SYNTH in 2026🧪
 Virtual Contrast-Enhanced Breast MRI Synthesis
@@ -42,7 +46,7 @@ We are thrilled to announce MAMA-SYNTH, a challenge dedicated to the future of c
 Coming Soon! 🚀  Stay tuned to this organization challenge timeline and submission guidelines!
 
 <p align="left">
-  <img src="bcn-aim-logo.png" alt="bcn-aim" width="250"/>
-  <img src="Logo_Universitat_de_Barcelona.png" alt="ub" width="250"/>
+  <img src="bcn-aim-logo.png" alt="bcn-aim" width="300"/>
+  <img src="Logo_Universitat_de_Barcelona.png" alt="ub" width="300"/>
 </p>
 
