@@ -8,11 +8,11 @@ We are proud to showcase the MAMA-MIA Challenge, originally featured at MICCAI 2
 
 ### Challenge Features:
 
--  The Dataset: 1,506 cases of breast cancer DCE-MRI with expert segmentations. Find the dataset [here](https://www.synapse.org/Synapse:syn60868042/wiki/628716).
+-  **The Dataset:** 1,506 cases of breast cancer DCE-MRI with expert segmentations. Find the dataset [here](https://www.synapse.org/Synapse:syn60868042/wiki/628716).
 
--  Two Tasks: Automated tumor segmentation and treatment response prediction.
+-  **Two Tasks:** Automated tumor segmentation and treatment response prediction.
 
--  Evaluation: Validated on private multicenter datasets to ensure real-world robustness.
+-  **Evaluation:** Validated on private multicenter datasets of 572 patients to ensure real-world robustness and fairness across subgroups.
 
 -  Explore the data and challenge repository here: [LidiaGarrucho/MAMA-MIA](https://github.com/LidiaGarrucho/MAMA-MIA)
 
