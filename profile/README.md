@@ -16,6 +16,8 @@ We are proud to showcase the MAMA-MIA Challenge, originally featured at MICCAI 2
 
 -  Explore the data and challenge repository here: [LidiaGarrucho/MAMA-MIA](https://github.com/LidiaGarrucho/MAMA-MIA)
 
+-  Submit your algorithms to our running long-term benchmark for comparison: [Codabench](https://www.codabench.org/competitions/7425/)
+
 
 ## 🤖 Upcoming Challenge: MAMA-SYNTH in 2026🧪
 Virtual Contrast-Enhanced Breast MRI Synthesis
