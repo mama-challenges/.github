@@ -38,3 +38,9 @@ We are thrilled to announce MAMA-SYNTH, a challenge dedicated to the future of c
 
 ### Status: 
 Coming Soon! 🚀  Stay tuned to this organization challenge timeline and submission guidelines!
+
+<p align="left">
+  <img src="https://github.com/mama-challenges/.github/bcn-aim-logo.png" alt="bcn-aim" width="250"/>
+  <img src="https://github.com/mama-challenges/.github/Logo_Universitat_de_Barcelona.png" alt="ub" width="250"/>
+</p>
+
