@@ -21,6 +21,7 @@ We are proud to showcase the MAMA-MIA Challenge, originally featured at MICCAI 2
 <p align="left">
   <img src="miccai2025-logo.png" alt="bcn-aim" width="100"/>
   <img src="Deep-Breath-logo.png" alt="ub" width="70"/>
+  <img src="mamamia-logo.png" alt="ub" width="70"/>
 </p>
 
 ## 🤖 Upcoming Challenge: MAMA-SYNTH in 2026🧪
