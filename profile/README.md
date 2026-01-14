@@ -47,9 +47,9 @@ We are thrilled to announce MAMA-SYNTH, a challenge dedicated to the future of c
 Coming Soon! 🚀  Stay tuned to this organization challenge timeline and submission guidelines!
 
 <p align="left">
-  <img src="bcn-aim-logo.png" alt="bcn-aim" width="300"/>
-  <img src="Logo_Universitat_de_Barcelona.png" alt="ub" width="300"/>
-  <img src="RadioVal-logo.svg" alt="ub" width="300"/>
-  <img src="eucanimage-logo.svg" alt="ub" width="300"/>
+  <img src="bcn-aim-logo.png" alt="bcn-aim" width="200"/>
+  <img src="Logo_Universitat_de_Barcelona.png" alt="ub" width="200"/>
+  <img src="RadioVal-logo.svg" alt="ub" width="200"/>
+  <img src="eucanimage-logo.svg" alt="ub" width="200"/>
 </p>
 
