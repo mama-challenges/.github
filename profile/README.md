@@ -2,7 +2,7 @@
 
 Welcome to the MAMA Challenges! We are dedicated to advancing breast cancer research through open-source code, high-quality datasets, and reproducible AI benchmarks. 🚀
 
-## 🏆 Highlight: The MAMA-MIA Challenge @ MICCAI 2025 📢
+## Highlight: The MAMA-MIA Challenge @ MICCAI 2025 📢
 
 We are proud to showcase the MAMA-MIA Challenge, originally featured at MICCAI 2025! This challenge focuses on large-scale multicenter breast cancer DCE-MRI analysis.
 
@@ -21,7 +21,7 @@ We are proud to showcase the MAMA-MIA Challenge, originally featured at MICCAI 2
 <p align="left">
   <img src="miccai2025-logo.png" alt="bcn-aim" width="100"/>
   <img src="Deep-Breath-logo.png" alt="ub" width="70"/>
-  <img src="mamamia-logo.png" alt="ub" width="70"/>
+  <img src="mamamia-logo.png" alt="ub" width="100"/>
 </p>
 
 ## 🤖 Upcoming Challenge: MAMA-SYNTH in 2026🧪
@@ -29,14 +29,14 @@ Virtual Contrast-Enhanced Breast MRI Synthesis
 
 We are thrilled to announce MAMA-SYNTH, a challenge dedicated to the future of contrast-free breast imaging.
 
-### Why MAMA-SYNTH?🌟
+### Why MAMA-SYNTH? 🌟
 -  Safer Imaging: Reducing reliance on gadolinium-based agents to eliminate safety concerns and contraindications.
 
 -  Streamlined Workflow: Lowering clinical costs and patient burden through virtual enhancement.
 
 -  Generative Excellence: Utilizing SOTA deep generative modeling to synthesize post-contrast images from pre-contrast acquisitions.
 
-### Challenge Focus 🎯:
+### Challenge Focus 🎯
 -  Image Fidelity: Can synthetic images match the quality of real DCE-MRI?
 
 -  Lesion Realism: Ensuring clinically accurate representation of tumors without real contrast.
